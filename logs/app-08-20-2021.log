@@ -1,0 +1,11 @@
+23:57:49.165 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+23:57:49.169 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+23:57:49.169 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+23:57:49.170 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+23:57:49.170 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+23:57:57.920 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x452609d5afdf7f16
+23:58:02.901 [main] INFO  com.pages.homepage - got the final names of the page
+23:58:04.235 [main] INFO  com.pages.homepage - price returned and selected element clicked
+23:58:07.523 [main] INFO  com.pages.proceedpage - Clicked on proceed to checkout
+23:58:43.309 [main] INFO  com.pages.homepage - got the final names of the page
+23:58:43.723 [main] INFO  com.pages.homepage - price returned and selected element clicked
